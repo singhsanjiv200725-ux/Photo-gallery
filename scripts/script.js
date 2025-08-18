@@ -1,7 +1,7 @@
 //// Wardrobe sets with all images
 const wardrobes = {
   dress1: [
-    "Images/image1/image1_1.jpg", "Images/image1/image1_2.jpg", "Images/image1/image1_3.jpg",
+    "images/image1/Image1_1.jpg", "Images/image1/image1_2.jpg", "Images/image1/image1_3.jpg",
     "Images/image1/image1_4.jpg", "Images/image1/image1_5.jpg", "Images/image1/image1_6.jpg",
     "Images/image1/image1_7.jpg", "Images/image1/image1_8.jpg", "Images/image1/image1_9.jpg",
     "Images/image1/image1_10.jpg", "Images/image1/image1_11.jpg", "Images/image1/image1_12.jpg",
