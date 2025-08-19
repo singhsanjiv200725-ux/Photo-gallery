@@ -75,13 +75,13 @@
     <p> Made with ♥️ just for you </p>
   </div>
 
-  <!-- Slideshow Modal -->
-  <div id="myModal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" id="modalImg">
-    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
-    <a class="next" onclick="changeSlide(1)">&#10095;</a>
-
+  <<!-- Modal -->
+<div id="modal" style="display:none;">
+  <span onclick="closeModal()" style="cursor:pointer;">&times;</span>
+  <img id="modal-img" src="" alt="Wardrobe Image" style="max-width:90%;height:auto;">
+  <button onclick="prevImage()">⟨</button>
+  <button onclick="nextImage()">⟩</button>
+</div>
     <!-- Heart mute/unmute button -->
     <button id="musicToggle" class="music-btn">💓</button>
   </div>
