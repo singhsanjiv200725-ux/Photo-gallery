@@ -60,7 +60,7 @@ dress5: [
   "images/image5/Image5_7.jpg", "images/image5/Image5_8.jpg", "images/image5/Image5_9.jpg",
   "images/image5/Image5_10.jpg", "images/image5/Image5_11.jpg", "images/image5/Image5_12.jpg",
   "images/image5/Image5_13.jpg", "images/image5/Image5_14.jpg", "images/image5/Image5_15.jpg",
-  "images/image5/Image5_16.jpg", "images/image5/Image5_17.jpg", "images/image5/Image5_18.jpg",
+  "images/image5/Image5_16.jpg", "images/image5/Image5_18.jpg",
   "images/image5/Image5_19.jpg", "images/image5/Image5_20.jpg", "images/image5/Image5_21.jpg",
   "images/image5/Image5_22.jpg", "images/image5/Image5_23.jpg", "images/image5/Image5_24.jpg",
   "images/image5/Image5_25.jpg", "images/image5/Image5_26.jpg", "images/image5/Image5_27.jpg",
