@@ -48,24 +48,24 @@ const wardrobes = {
     "images/image3/Image3_43.jpg", "images/image3/Image3_44.jpg"
   ],
   dress4: [
-    "images/image4/Image4_1.jpg", "images/image4/Image4_2.jpg", "images/image4/Image4_3.jpg",
-    "images/image4/Image4_4.jpg", "images/image4/Image4_5.jpg", "images/image4/Image4_6.jpg",
-    "images/image4/Image4_7.jpg", "images/image4/Image4_8.jpg", "images/image4/Image4_9.jpg",
-    "images/image4/Image4_10.jpg", "images/image4/Image4_11.jpg", "Images/image4/image4_12.jpg",
-    "images/image4/Image4_13.jpg","images/image4/Image4_14.jpg","images/image4/Image4_15.jpg"
-  ],
-  dress5: [
-    "images/image5/Image5_1.jpg", "images/image5/Image5_2.jpg", "images/image5/Image5_3.jpg",
-    "images/image5/Image5_4.jpg", "images/image5/Image5_5.jpg", "images/image5/Image5_6.jpg",
-    "images/image5/Image5_7.jpg", "images/image5/Image5_8.jpg", "images/image5/Image5_9.jpg",
-    "Images/image5/image5_10.jpg", "images/image5/Image5_11.jpg", "images/image5/Image5_12.jpg",
-    "images/image5/Image5_13.jpg", "images/image5/Image5_14.jpg", "images/image5/Image5_15.jpg",
-    "images/image5/Image5_16.jpg", "images/image5/Image5_17.jpg", "images/image5/Image5_18.jpg",
-    "images/image5/Image5_19.jpg", "images/image5/Image5_20.jpg", "images/image5/Image5_21.jpg",
-    "images/image5/Image5_22.jpg", "images/image5/Image5_23.jpg", "images/image5/Image5_24.jpg",
-    "images/image5/Image5_25.jpg", "images/image5/Image5_26.jpg", "images/image5/Image5_27.jpg",
-    "images/image5/Image5_28.jpg"
-  ],
+  "images/image4/Image4_1.jpg", "images/image4/Image4_2.jpg", "images/image4/Image4_3.jpg",
+  "images/image4/Image4_4.jpg", "images/image4/Image4_5.jpg", "images/image4/Image4_6.jpg",
+  "images/image4/Image4_7.jpg", "images/image4/Image4_8.jpg", "images/image4/Image4_9.jpg",
+  "images/image4/Image4_10.jpg", "images/image4/Image4_11.jpg", "images/image4/Image4_12.jpg",
+  "images/image4/Image4_13.jpg", "images/image4/Image4_14.jpg", "images/image4/Image4_15.jpg"
+],
+dress5: [
+  "images/image5/Image5_1.jpg", "images/image5/Image5_2.jpg", "images/image5/Image5_3.jpg",
+  "images/image5/Image5_4.jpg", "images/image5/Image5_5.jpg", "images/image5/Image5_6.jpg",
+  "images/image5/Image5_7.jpg", "images/image5/Image5_8.jpg", "images/image5/Image5_9.jpg",
+  "images/image5/Image5_10.jpg", "images/image5/Image5_11.jpg", "images/image5/Image5_12.jpg",
+  "images/image5/Image5_13.jpg", "images/image5/Image5_14.jpg", "images/image5/Image5_15.jpg",
+  "images/image5/Image5_16.jpg", "images/image5/Image5_17.jpg", "images/image5/Image5_18.jpg",
+  "images/image5/Image5_19.jpg", "images/image5/Image5_20.jpg", "images/image5/Image5_21.jpg",
+  "images/image5/Image5_22.jpg", "images/image5/Image5_23.jpg", "images/image5/Image5_24.jpg",
+  "images/image5/Image5_25.jpg", "images/image5/Image5_26.jpg", "images/image5/Image5_27.jpg",
+  "images/image5/Image5_28.jpg"
+],
   dress6: [
     "images/image6/Image6_1.jpg", "images/image6/Image6_2.jpg", "images/image6/Image6_3.jpg",
     "images/image6/Image6_4.jpg", "images/image6/Image6_5.jpg", "images/image6/Image6_6.jpg",
